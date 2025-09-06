@@ -1,0 +1,1 @@
+hello() // THROW AN ERROR
